@@ -19,4 +19,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: mates182/sisas:latest
+          tags: 2424833f/programn1:latest
